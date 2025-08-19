@@ -25,8 +25,8 @@ Data cleaning, joins/CTEs/window functions, DAX/Measures, KPI design, dashboardi
 **Highlights:**
 - Total Sales **£12.64M**, Profit **£1.47M**, Avg Margin **11.61%**
 - Consumer segment leads; Phones, Copiers, Chairs top sub-categories  
-**Tools:** Power BI, Excel  
-**Screenshot:** ![Globalstore Sales Performance](./images/globalstore_dashboard.png)
+**Tools:** Power BI, Excel
+  
 <img width="500" height="281" alt="overview png" src="https://github.com/user-attachments/assets/3aaca3f3-50ac-4081-bcea-773c8b8d8519" />
 
 ---
@@ -35,7 +35,7 @@ Data cleaning, joins/CTEs/window functions, DAX/Measures, KPI design, dashboardi
 **Objective:** Identify top cities/countries/regions by sales & profit.  
 **Highlights:** NYC leads sales (~£0.26M); USA most profitable (~£0.29M).  
 **Tools:** Power BI  
-**Screenshot:** ![Geographical Analysis](./images/geography_dashboard.png)
+
 <img width="497" height="281" alt="geo png" src="https://github.com/user-attachments/assets/2ae0a576-024a-445d-b659-ca0b5989c192" />
 
 ---
@@ -44,7 +44,7 @@ Data cleaning, joins/CTEs/window functions, DAX/Measures, KPI design, dashboardi
 **Objective:** Understand how priority impacts profit and delivery time.  
 **Highlights:** Medium priority contributes most profit (~£0.86M); Critical orders deliver fastest (~21 days).  
 **Tools:** Power BI  
-**Screenshot:** ![Order Priority](./images/order_priority_dashboard.png)
+
 <img width="498" height="273" alt="orderpriority png" src="https://github.com/user-attachments/assets/99e8ab31-fad6-4589-82eb-be3b0fe5b222" />
 
 ---
@@ -53,7 +53,8 @@ Data cleaning, joins/CTEs/window functions, DAX/Measures, KPI design, dashboardi
 **Objective:** Compare margins and usage across shipping modes.  
 **Highlights:** Margins ~11% across modes; **Standard Class = 60%** of orders.  
 **Tools:** Power BI  
-**Screenshot:** ![Ship Mode](./images/ship_mode_dashboard.png)
+
+
 <img width="503" height="284" alt="shipmode png" src="https://github.com/user-attachments/assets/b710d8f5-a7cb-4517-97f4-5fd996e04670" />
 
 ---
@@ -62,7 +63,8 @@ Data cleaning, joins/CTEs/window functions, DAX/Measures, KPI design, dashboardi
 **Objective:** Profit by customer segment and product sub-category.  
 **Highlights:** Consumer profit ~£0.75M; Accessories & Copiers ≈ **17%** margins; Tech & Office Supplies outperform Furniture.  
 **Tools:** Power BI, Excel  
-**Screenshot:** ![Segment & Product Profitability](./images/segment_profit_dashboard.png)
+
+
 <img width="504" height="285" alt="profit png" src="https://github.com/user-attachments/assets/55820a89-fb16-48fc-a14e-f25c2ee86f40" />
 
 ---
@@ -71,7 +73,7 @@ Data cleaning, joins/CTEs/window functions, DAX/Measures, KPI design, dashboardi
 **Objective:** Seasonality & growth trends across months/quarters.  
 **Highlights:** Peak in **Q4 2014 (~£1.3M)**; November strongest month (~£0.51M).  
 **Tools:** Power BI  
-**Screenshot:** ![Sales Trends](./images/sales_trends_dashboard.png)
+
 <img width="507" height="285" alt="salespattern png" src="https://github.com/user-attachments/assets/48430ccc-de8e-4ec6-90a3-fec7f85a0d5b" />
 
 ---
@@ -80,7 +82,7 @@ Data cleaning, joins/CTEs/window functions, DAX/Measures, KPI design, dashboardi
 **Objective:** Quantify effect of discounts on profit.  
 **Highlights:** Profit falls sharply beyond ~40% discount; Furniture averages the highest discount (~16.8%).  
 **Tools:** Power BI  
-**Screenshot:** ![Discount Analysis](./images/discount_dashboard.png)
+
 <img width="506" height="276" alt="discount png" src="https://github.com/user-attachments/assets/0b408faf-ac90-4303-ad95-fd589d011914" />
 
 ---
