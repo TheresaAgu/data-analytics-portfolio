@@ -184,6 +184,11 @@ FROM orders o
 JOIN agents a ON o.agent_code = a.agent_code
 WHERE a.agent_name = 'Rickey'
 
+## 🔗 Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/theresa-agu/)
+- 📧 tessyihesiulor@gmail.com
+- 💻 [GitHub](https://github.com/TheresaAgu/data-analytics-portfolio/edit/main/README.md)
+
 
 
 
