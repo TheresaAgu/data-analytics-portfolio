@@ -15,7 +15,6 @@ Data cleaning, joins/CTEs/window functions, DAX/Measures, KPI design, dashboardi
 
 ## 📄 Resume
 [THERESA AGU CV.docx](https://github.com/user-attachments/files/21860324/THERESA.AGU.CV.docx)
-[Download my resume (PDF)](./THERESA_AGU_CV.pdf)
 
 ---
 
